@@ -1,6 +1,8 @@
 # Peptide Ligand Predictor 
 ______________________________
-![video](peptide_models/figures/video.mp4)
+
+https://github.com/amp91/PeptideModels/assets/30113339/4126a37d-5260-4854-b5c7-481499ef6dec
+
 
 ## Introduction 
 This repository hosts software that utilises machine learning models to design 
@@ -105,5 +107,6 @@ optimization and evaluation of machine learning models, analysis
 of the model-designed compounds, dimensionality reduction, statistical analysis, 
 and more. For an in-depth guide on navigating the repository, please refer to
 ```README_SUPPORT.md```.
+
 -------------------------------
 Contact: Anna Puszkarska ( :e-mail: anna.maria.puszkarska21@gmail.com)
