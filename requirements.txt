@@ -1,0 +1,11 @@
+setuptools
+numpy
+tensorflow
+scikit-learn
+keras
+pandas
+matplotlib
+seaborn
+scipy
+biopython
+openpyxl
