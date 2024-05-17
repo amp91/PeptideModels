@@ -10,7 +10,7 @@ setup(
     url='https://github.com/amp91/PeptideModels',
     license='Apache License, Version 2.0',
     author='Anna M. Puszkarska',
-    author_email='anpuszkarska@gmail.com',
+    author_email='anna.maria.puszkarska21@gmail.com',
     description='Code for peptide ligand design with machine learning models.',
     long_description=long_description,
 )

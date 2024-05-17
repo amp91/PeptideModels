@@ -66,7 +66,7 @@ detailed in our paper for activity prediction across two molecular targets,
 using either the provided human GCG/GLP1 analogous training dataset or your own 
 dataset, and please refer to:
 ```Tutorial-training_ensemble``` in the folder ```notebooks```. 
-To run the training, simpy enter ``python train_main.py`` in the command line.
+To run the training, simply enter ``python train_main.py`` in the command line.
 Note that the ensemble training on the provided dataset of 125 peptide sequences takes around 
 2 h (processor 2.3 GHz 8-Core Intel Core i9).
 
@@ -92,7 +92,7 @@ ______________________________
 ______________________________
 
 ### Citation
-Should you find this repository beneficial to your research, please cite:
+Should you find this repository beneficial to your research, please cite our article:
 > [Machine learning designs new GCGR/GLP-1R dual agonists with enhances biological potency](https://www.nature.com/articles/s41557-024-01532-x)
 
 Puszkarska, A.M., Taddese, B., Revell, J. et al. Machine learning designs new GCGR/GLP-1R
