@@ -106,8 +106,8 @@ def train_multitask_models(iteration: int,
     y2_current = y[1][train_indexes]
     y_current = [y1_current, y2_current]
     # validation/test split
-    test_indexes = test_indexes[:int(len(test_indexes) / 2)]
     val_indexes = test_indexes[int(len(test_indexes) / 2):]
+    test_indexes = test_indexes[:int(len(test_indexes) / 2)]
 
     X_validation = X[val_indexes]
     X_validation = X_validation.reshape(X_validation.shape[0],
